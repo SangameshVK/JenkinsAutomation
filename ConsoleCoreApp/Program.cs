@@ -7,6 +7,7 @@ namespace ConsoleCoreApp
         static void Main(string[] args)
         {
             Console.WriteLine("First .NET Core with automated build");
+            Introducing a syntax error;
         }
     }
 }
