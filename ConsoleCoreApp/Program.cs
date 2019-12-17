@@ -11,6 +11,7 @@ namespace ConsoleCoreApp
             Console.WriteLine("Printing third line bcz I have nothing else to do :P");
             Console.WriteLine("Printing fourth line bcz I have nothing else to do :P");
             Console.WriteLine("Printing fourth line bcz I have nothing else to do :P");
+            Console.WriteLine("Printing fourth line bcz I have nothing else to do :P");
 
         }
     }
